@@ -11,3 +11,6 @@ Point prévu : GET /health
 
 # campus-tasks
 
+
+## Support
+Contact : equipe-a@example.invalid
